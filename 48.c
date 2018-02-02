@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main()
 {
-int n,i,a[i]sum=0;
+int n,i,a[i],sum=0,avg;
 printf("enter number:");
 scanf("%d",&n);
 printf("enter numbers one by one:");
