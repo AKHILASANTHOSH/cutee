@@ -3,7 +3,7 @@ int main()
 {
 int a,sum=0;
 printf("enter the number:");
-scanf("%d",&n);
+scanf("%d",&a);
 while(a!=0)
 {
 a=a/10;
